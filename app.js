@@ -15,7 +15,7 @@ const adminRoutes = require("./routes/adminRoutes");
 
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://device-compare.netlify.app",
+  "https://device-comparsion.netlify.app",
 ];
 
 // Middlewares
