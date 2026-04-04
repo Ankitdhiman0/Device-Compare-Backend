@@ -18,7 +18,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(
   cors({
-    origin: "https://device-comparsion.netlify.app",
+    origin: "https://device-comparison.netlify.app",
     credentials: true,
   }),
 );
